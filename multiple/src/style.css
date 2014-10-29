@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	 background: linear-gradient(top, #fff, #123456);
+}
+
+h1 {
+	text-shadow: 0 0 2px #000;
+}
+
+input {
+	box-shadow: 3px 1px 10px rgba(255, 0, 10, 0.9);
+}

@@ -1,0 +1,16 @@
+{
+  "name": "plugin",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  }
+}
