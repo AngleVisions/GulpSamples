@@ -22,7 +22,7 @@ gulp.task('html', function() {
 gulp.task('sync', function() {
 	sync({
 		server: {
-			baseDir : target
+			baseDir: target
 		}
 	});
 });
